@@ -1,3 +1,4 @@
 myName = "jiwoo"
 myMajor = "management"
-print(myName,myMajor) 
+myInfo = myName + myMajor
+print(myName,myMajor,myInfo) 
